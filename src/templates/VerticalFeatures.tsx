@@ -24,6 +24,16 @@ const VerticalFeatures = () => (
               ogaoga - Qiita
             </a>
           </li>
+          <li>
+            <a
+              className=""
+              href="https://github.com/ogaoga"
+              target="_blank"
+              rel="noreferrer"
+            >
+              ogaoga - GitHub
+            </a>
+          </li>
           {/*
           <li>
             <a
