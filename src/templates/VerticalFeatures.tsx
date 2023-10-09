@@ -14,6 +14,26 @@ const VerticalFeatures = () => (
               ogaoga (@ogaoga) / X (a.k.a. Twitter)
             </a>
           </li>
+          <li>
+            <a
+              className=""
+              href="https://qiita.com/ogaoga"
+              target="_blank"
+              rel="noreferrer"
+            >
+              ogaoga - Qiita
+            </a>
+          </li>
+          <li>
+            <a
+              className=""
+              href="https://github.com/ogaoga"
+              target="_blank"
+              rel="noreferrer"
+            >
+              ogaoga - GitHub
+            </a>
+          </li>
           {/*
           <li>
             <a
